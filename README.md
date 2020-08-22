@@ -23,5 +23,9 @@
 
 </details>
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CasCard&layout=compact)]
+
 [website]: https://innovaim.in
 [linkedin]: https://linkedin.com/in/abelcdixon
