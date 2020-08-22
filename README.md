@@ -13,6 +13,14 @@
 [<img align="left" alt="Abel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+--- 
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="CasCard Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CasCard&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://innovaim.in
 [linkedin]: https://linkedin.com/in/abelcdixon
