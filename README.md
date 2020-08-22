@@ -19,7 +19,7 @@
 <details>
   <summary>:octocat: Github Stats</summary>
 
-  <img align="left" alt="CasCard Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CasCard&show_icons=true&hide_border=true" />
+  <img align="left" alt="CasCard Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CasCard&show_icons=true&theme=dracula" />
 
 </details>
 
