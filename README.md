@@ -3,7 +3,7 @@
 ### Because Physics blends with bits and bytes
 
 - 🍭 Committed to life long learning
-- 🗽 I work on hardware and code 💻
+- 🗽 I work on hardware and [code](https://www.stopstalk.com/user/profile/AbelDixon) 💻
 - 🚀 A space enthusiast 
 - 🎹 They are awesome !
 
