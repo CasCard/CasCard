@@ -7,6 +7,7 @@
 - 🚀 A space enthusiast 
 - 🎹 They are awesome !
 
+![](https://komarev.com/ghpvc/?username=CasCard&color=blueviolet)
 
 ### Stay connected for latest project :
 
