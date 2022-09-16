@@ -7,6 +7,10 @@
 - 🚀 A space enthusiast 
 - 🎹 They are awesome !
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![](https://komarev.com/ghpvc/?username=CasCard&color=blueviolet)
 
 ### Stay connected for latest project :
