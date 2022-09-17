@@ -9,6 +9,16 @@
 
 
 <!--START_SECTION:waka-->
+
+```text
+From: 15 September 2022 - To: 16 September 2022
+
+Total Time: 2 mins
+
+C++       1 min           >>>>>>>>>>>>>>>>>>>------   76.41 %
+Jupyter   0 secs          >>>>>>-------------------   23.59 %
+```
+
 <!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=CasCard&color=blueviolet)
