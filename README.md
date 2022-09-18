@@ -11,12 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 September 2022 - To: 16 September 2022
+From: 15 September 2022 - To: 17 September 2022
 
-Total Time: 2 mins
+Total Time: 1 hr 15 mins
 
-C++       1 min           >>>>>>>>>>>>>>>>>>>------   76.41 %
-Jupyter   0 secs          >>>>>>-------------------   23.59 %
+Python    1 hr 11 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   95.40 %
+C++       1 min           >------------------------   02.39 %
+SQL       1 min           -------------------------   01.47 %
+Jupyter   0 secs          -------------------------   00.74 %
 ```
 
 <!--END_SECTION:waka-->
