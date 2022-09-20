@@ -11,14 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 September 2022 - To: 18 September 2022
+From: 12 September 2022 - To: 19 September 2022
 
-Total Time: 3 hrs 4 mins
+Total Time: 3 hrs 19 mins
 
-Python    2 hrs 5 mins    >>>>>>>>>>>>>>>>>========   68.25 %
-SQL       56 mins         >>>>>>>>=================   30.48 %
-C++       1 min           =========================   00.97 %
-Jupyter   0 secs          =========================   00.30 %
+Python    2 hrs 21 mins   █████████████████▓░░░░░░░   70.67 %
+SQL       56 mins         ███████░░░░░░░░░░░░░░░░░░   28.15 %
+C++       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Jupyter   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
