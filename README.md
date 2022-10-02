@@ -11,16 +11,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 September 2022 - To: 30 September 2022
+From: 24 September 2022 - To: 01 October 2022
 
-Total Time: 7 hrs 12 mins
+Total Time: 5 hrs 34 mins
 
-Python           4 hrs 56 mins   █████████████████░░░░░░░░   68.52 %
-SQL              1 hr 45 mins    ██████░░░░░░░░░░░░░░░░░░░   24.39 %
-C++              27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-CMake            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python   3 hrs 19 mins   ███████████████░░░░░░░░░░   59.70 %
+SQL      1 hr 45 mins    ████████░░░░░░░░░░░░░░░░░   31.57 %
+C++      27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+CMake    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
