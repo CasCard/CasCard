@@ -12,16 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 October 2022 - To: 17 October 2022
+From: 11 October 2022 - To: 18 October 2022
 
-Total Time: 9 hrs 30 mins
+Total Time: 11 hrs 19 mins
 
-Python       6 hrs 47 mins   ██████████████████░░░░░░░   71.40 %
-C++          2 hrs 31 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
-CMake        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Git          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python   8 hrs 56 mins   ███████████████████▓░░░░░   78.95 %
+C++      2 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   20.47 %
+CMake    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
