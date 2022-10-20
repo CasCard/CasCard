@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 October 2022 - To: 18 October 2022
+From: 12 October 2022 - To: 19 October 2022
 
-Total Time: 11 hrs 19 mins
+Total Time: 11 hrs 9 mins
 
-Python   8 hrs 56 mins   ███████████████████▓░░░░░   78.95 %
-C++      2 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   20.47 %
-CMake    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Python   8 hrs 49 mins   ███████████████████▓░░░░░   79.06 %
+C++      2 hrs 16 mins   █████░░░░░░░░░░░░░░░░░░░░   20.35 %
+CMake    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
