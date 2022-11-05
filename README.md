@@ -12,16 +12,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 October 2022 - To: 03 November 2022
+From: 28 October 2022 - To: 04 November 2022
 
-Total Time: 8 hrs 52 mins
+Total Time: 8 hrs 7 mins
 
-Python    6 hrs 14 mins   █████████████████▓░░░░░░░   70.32 %
-TeX       1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
-C++       1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
-JSON      14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Jupyter   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Git       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python    6 hrs 11 mins   ███████████████████░░░░░░   76.33 %
+TeX       1 hr 11 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
+C++       39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+Jupyter   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+CMake     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+CSV       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
