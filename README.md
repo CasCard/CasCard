@@ -12,12 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 October 2022 - To: 07 November 2022
+From: 01 November 2022 - To: 08 November 2022
 
-Total Time: 4 hrs 41 mins
+Total Time: 3 hrs 30 mins
 
-Python   4 hrs 38 mins   ████████████████████████▓   98.92 %
-C++      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Python   3 hrs 30 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
