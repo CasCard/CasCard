@@ -12,11 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 November 2022 - To: 08 November 2022
+From: 02 November 2022 - To: 09 November 2022
 
-Total Time: 3 hrs 30 mins
+Total Time: 2 hrs 40 mins
 
-Python   3 hrs 30 mins   █████████████████████████   100.00 %
+Python   2 hrs 40 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
