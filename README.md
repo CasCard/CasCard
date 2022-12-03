@@ -12,13 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 November 2022 - To: 01 December 2022
+From: 25 November 2022 - To: 02 December 2022
 
-Total Time: 11 hrs 5 mins
+Total Time: 12 hrs 28 mins
 
-Python   9 hrs 50 mins   ██████████████████████▒░░   88.73 %
-SQL      1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python   11 hrs 50 mins  ███████████████████████▓░   94.89 %
+SQL      38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
 HTML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
