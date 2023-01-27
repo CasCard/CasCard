@@ -12,16 +12,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 January 2023 - To: 25 January 2023
+From: 19 January 2023 - To: 26 January 2023
 
-Total Time: 6 hrs 12 mins
+Total Time: 11 hrs 22 mins
 
-C             4 hrs 23 mins   █████████████████▓░░░░░░░   70.80 %
-Python        1 hr 16 mins    █████░░░░░░░░░░░░░░░░░░░░   20.62 %
-C++           13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-CMake         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Objective-C   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Makefile      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+C             8 hrs 25 mins   ██████████████████▓░░░░░░   74.05 %
+Python        1 hr 58 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
+C++           14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+CMake         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Jupyter       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Objective-C   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 ```
 
 <!--END_SECTION:waka-->
