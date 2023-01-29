@@ -12,14 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 January 2023 - To: 27 January 2023
+From: 21 January 2023 - To: 28 January 2023
 
-Total Time: 15 hrs 39 mins
+Total Time: 21 hrs 43 mins
 
-C             9 hrs 51 mins   ███████████████▓░░░░░░░░░   62.91 %
-Python        2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 %
-C++           1 hr 58 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-Other         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+C             9 hrs 59 mins   ███████████▓░░░░░░░░░░░░░   46.01 %
+Python        5 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.19 %
+C++           2 hrs 37 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
+CMake         1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+Other         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->
