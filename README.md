@@ -12,16 +12,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 February 2023 - To: 23 February 2023
+From: 17 February 2023 - To: 24 February 2023
 
-Total Time: 10 hrs 48 mins
+Total Time: 6 hrs 56 mins
 
-Python   5 hrs 38 mins   █████████████░░░░░░░░░░░░   52.14 %
-Dart     2 hrs 41 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.95 %
-C        1 hr 16 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
-Docker   36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-CSV      24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Text     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Python   4 hrs 51 mins   █████████████████▒░░░░░░░   69.95 %
+Dart     54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+Docker   36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+CSV      23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Text     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
