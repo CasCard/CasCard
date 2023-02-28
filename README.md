@@ -12,16 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 February 2023 - To: 26 February 2023
+From: 20 February 2023 - To: 27 February 2023
 
-Total Time: 4 hrs 22 mins
+Total Time: 1 hr 53 mins
 
-Python       3 hrs 2 mins    █████████████████▒░░░░░░░   69.39 %
-Docker       36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-CSV          23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-Text         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-SSH Config   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python       1 hr 5 mins     ██████████████▒░░░░░░░░░░   57.49 %
+CSV          19 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
+Docker       18 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
+SSH Config   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Text         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->
