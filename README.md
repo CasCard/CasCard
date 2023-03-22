@@ -12,13 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 March 2023 - To: 20 March 2023
+From: 14 March 2023 - To: 21 March 2023
 
-Total Time: 2 hrs 34 mins
+Total Time: 2 hrs 11 mins
 
-Dart    1 hr 50 mins    █████████████████▓░░░░░░░   71.17 %
-C++     43 mins         ███████░░░░░░░░░░░░░░░░░░   28.41 %
-CMake   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+C++     2 hrs 7 mins    ████████████████████████▒   97.37 %
+CMake   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 ```
 
 <!--END_SECTION:waka-->
