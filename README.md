@@ -12,16 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 March 2023 - To: 03 April 2023
+From: 28 March 2023 - To: 04 April 2023
 
-Total Time: 9 hrs 55 mins
+Total Time: 7 hrs 4 mins
 
-Dart       5 hrs 1 min     ████████████▓░░░░░░░░░░░░   50.54 %
-Python     4 hrs 17 mins   ██████████▓░░░░░░░░░░░░░░   43.22 %
-C++        23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
-CSV        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Markdown   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Python   4 hrs 54 mins   █████████████████▒░░░░░░░   69.48 %
+Dart     1 hr 59 mins    ███████░░░░░░░░░░░░░░░░░░   28.14 %
+CSV      10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
