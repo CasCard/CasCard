@@ -12,13 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 March 2023 - To: 06 April 2023
+From: 31 March 2023 - To: 07 April 2023
 
-Total Time: 5 hrs 39 mins
+Total Time: 5 hrs 21 mins
 
-Python   5 hrs 20 mins   ███████████████████████▓░   94.54 %
-CSV      18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python   5 hrs 3 mins    ███████████████████████▓░   94.25 %
+CSV      18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
 ```
 
 <!--END_SECTION:waka-->
