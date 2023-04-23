@@ -12,11 +12,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 April 2023 - To: 21 April 2023
+From: 15 April 2023 - To: 22 April 2023
 
-Total Time: 4 hrs 31 mins
+Total Time: 3 hrs 21 mins
 
-Python   4 hrs 31 mins   █████████████████████████   100.00 %
+Python        2 hrs 13 mins   ████████████████▓░░░░░░░░   66.33 %
+C++           54 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.91 %
+CMake         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Objective-C   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Dart          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
