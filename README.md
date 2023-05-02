@@ -12,12 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2023 - To: 30 April 2023
+From: 24 April 2023 - To: 01 May 2023
 
-Total Time: 1 hr 11 mins
+Total Time: 1 hr 4 mins
 
-Python   1 hr 9 mins     ████████████████████████▒   97.53 %
-Other    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Python    1 hr 4 mins     █████████████████████████   99.95 %
+CSV/TSV   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Jupyter   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Text      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
