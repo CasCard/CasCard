@@ -12,15 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 May 2023 - To: 10 May 2023
+From: 04 May 2023 - To: 11 May 2023
 
-Total Time: 1 hr 27 mins
+Total Time: 57 mins
 
-Python     42 mins         ████████████▒░░░░░░░░░░░░   49.18 %
-Other      19 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.09 %
-Markdown   12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
-C++        11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
-CMake      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Python   53 mins         ███████████████████████▓░   94.27 %
+Other    2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
