@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 May 2023 - To: 16 May 2023
+From: 10 May 2023 - To: 17 May 2023
 
-Total Time: 49 mins
+Total Time: 31 mins
 
-Python   49 mins         ████████████████████████▓   99.08 %
-JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Python   30 mins         ████████████████████████▓   98.54 %
+JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
