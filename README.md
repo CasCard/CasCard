@@ -12,15 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2023 - To: 06 June 2023
+From: 31 May 2023 - To: 07 June 2023
 
-Total Time: 8 hrs 40 mins
+Total Time: 8 hrs 53 mins
 
-Python   7 hrs 34 mins   █████████████████████▓░░░   87.30 %
-Other    54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-Bash     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-CSV      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python   7 hrs 11 mins   ████████████████████▒░░░░   80.78 %
+Other    1 hr 23 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
+Bash     19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:waka-->
