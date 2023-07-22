@@ -12,14 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2023 - To: 20 July 2023
+From: 14 July 2023 - To: 21 July 2023
 
-Total Time: 3 hrs 16 mins
+Total Time: 3 hrs 7 mins
 
-Python   3 hrs 8 mins    ████████████████████████░   95.67 %
-Other    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-Bash     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Python   3 hrs 7 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
