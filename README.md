@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2023 - To: 23 July 2023
+From: 17 July 2023 - To: 24 July 2023
 
-Total Time: 1 hr 57 mins
+Total Time: 56 mins
 
-Python   1 hr 56 mins    ████████████████████████▓   98.54 %
-Java     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Python   55 mins         ████████████████████████▒   96.97 %
+Java     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
 ```
 
 <!--END_SECTION:waka-->
