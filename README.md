@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2023 - To: 10 August 2023
+From: 04 August 2023 - To: 11 August 2023
 
-Total Time: 2 hrs 18 mins
+Total Time: 3 hrs 13 mins
 
-C++     2 hrs 11 mins   ███████████████████████▓░   94.75 %
-CMake   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C++     3 hrs 6 mins    ████████████████████████░   96.25 %
+CMake   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
