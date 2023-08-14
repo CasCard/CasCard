@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2023 - To: 12 August 2023
+From: 06 August 2023 - To: 13 August 2023
 
 Total Time: 3 hrs 47 mins
 
-C++              3 hrs 20 mins   ██████████████████████░░░   87.88 %
-SQL              11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+C++              3 hrs 20 mins   ██████████████████████░░░   87.86 %
+SQL              11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 GitIgnore file   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 CMake            7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
 Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
