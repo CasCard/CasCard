@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2023 - To: 23 August 2023
+From: 17 August 2023 - To: 24 August 2023
 
-Total Time: 2 hrs 15 mins
+Total Time: 1 hr 50 mins
 
-Markdown         50 mins         █████████▒░░░░░░░░░░░░░░░   37.23 %
-Python           49 mins         █████████░░░░░░░░░░░░░░░░   36.47 %
-Java             22 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
-SQL              9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-Ezhil            3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Markdown         50 mins         ███████████▒░░░░░░░░░░░░░   45.70 %
+Python           46 mins         ██████████▓░░░░░░░░░░░░░░   42.16 %
+SQL              9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+Ezhil            3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Assembly         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
