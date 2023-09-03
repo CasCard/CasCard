@@ -12,13 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2023 - To: 01 September 2023
+From: 26 August 2023 - To: 02 September 2023
 
-Total Time: 3 hrs 27 mins
+Total Time: 1 hr 15 mins
 
-Java    2 hrs 59 mins   █████████████████████▓░░░   86.48 %
-C++     28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-CMake   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java   1 hr 15 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
