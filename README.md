@@ -12,13 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2023 - To: 17 September 2023
+From: 11 September 2023 - To: 18 September 2023
 
-Total Time: 59 mins
+Total Time: 6 hrs 21 mins
 
-Python   53 mins         ██████████████████████▓░░   91.00 %
-HTML     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-YAML     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Python       5 hrs 12 mins   ████████████████████▓░░░░   82.00 %
+CMake        35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+Ezhil        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Assembly     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+XML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
