@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2023 - To: 27 September 2023
+From: 21 September 2023 - To: 28 September 2023
 
-Total Time: 37 hrs 28 mins
+Total Time: 37 hrs 31 mins
 
-Python         32 hrs 23 mins  █████████████████████▓░░░   86.45 %
-Prolog         1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Docker         1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-YAML           57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Markdown       28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+Python         35 hrs 4 mins   ███████████████████████▒░   93.49 %
+Docker         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Prolog         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Markdown       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+XML            18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
