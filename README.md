@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 September 2023 - To: 03 October 2023
+From: 27 September 2023 - To: 04 October 2023
 
-Total Time: 19 hrs 27 mins
+Total Time: 17 hrs 15 mins
 
-Python      18 hrs 40 mins  ████████████████████████░   95.96 %
-Docker      30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-CMake       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Other       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-GDScript3   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python      16 hrs 12 mins  ███████████████████████▒░   93.95 %
+Docker      30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+JSON        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+YAML        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Other       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
