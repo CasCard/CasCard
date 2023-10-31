@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2023 - To: 29 October 2023
+From: 23 October 2023 - To: 30 October 2023
 
-Total Time: 1 hr 59 mins
+Total Time: 2 hrs 40 mins
 
-Other    1 hr 29 mins    ██████████████████▓░░░░░░   74.68 %
-Python   28 mins         ██████░░░░░░░░░░░░░░░░░░░   23.83 %
-Text     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-C++      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other        1 hr 54 mins    █████████████████▓░░░░░░░   71.16 %
+Python       20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
+C++          16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
+C            7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
