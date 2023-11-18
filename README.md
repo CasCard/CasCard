@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2023 - To: 16 November 2023
+From: 10 November 2023 - To: 17 November 2023
 
-Total Time: 6 hrs 1 min
+Total Time: 6 hrs 47 mins
 
-Python     3 hrs 11 mins   █████████████▒░░░░░░░░░░░   52.98 %
-Other      1 hr 32 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.51 %
-Bash       23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-YAML       20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Text       10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Python     3 hrs 54 mins   ██████████████▒░░░░░░░░░░   57.58 %
+Other      1 hr 27 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.39 %
+YAML       30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+Bash       22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
+Roff       19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
 ```
 
 <!--END_SECTION:waka-->
