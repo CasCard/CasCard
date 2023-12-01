@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 November 2023 - To: 29 November 2023
+From: 23 November 2023 - To: 30 November 2023
 
-Total Time: 6 hrs 11 mins
+Total Time: 6 hrs 26 mins
 
-C++      2 hrs 14 mins   █████████░░░░░░░░░░░░░░░░   36.21 %
-C        1 hr 24 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.87 %
-YAML     1 hr 5 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
-Other    30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Python   28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+C++          3 hrs 1 min     ███████████▓░░░░░░░░░░░░░   47.06 %
+C            1 hr 23 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.58 %
+YAML         45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+Python       25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+CMake        24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
 ```
 
 <!--END_SECTION:waka-->
