@@ -12,14 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2023 - To: 20 December 2023
+From: 14 December 2023 - To: 21 December 2023
 
-Total Time: 36 hrs 47 mins
+Total Time: 31 hrs 4 mins
 
-Python   33 hrs 16 mins  ██████████████████████▓░░   90.44 %
-Other    3 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-Text     14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-JSON     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Python   27 hrs 49 mins  ██████████████████████▒░░   89.58 %
+Other    2 hrs 44 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+Text     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+JSON     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 YAML     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
