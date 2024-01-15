@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2024 - To: 13 January 2024
+From: 07 January 2024 - To: 14 January 2024
 
-Total Time: 7 mins
+Total Time: 11 mins
 
-YAML                       5 mins          ████████████████▒░░░░░░░░   65.69 %
-Markdown                   1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.73 %
-Bash                       0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-Python                     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-CSV                        0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+YAML                       5 mins          ███████████▒░░░░░░░░░░░░░   45.89 %
+CMake                      1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+C++                        1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
+Markdown                   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
+Bash                       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
 ```
 
 <!--END_SECTION:waka-->
