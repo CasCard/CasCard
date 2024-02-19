@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2024 - To: 17 February 2024
+From: 11 February 2024 - To: 18 February 2024
 
-Total Time: 12 mins
+Total Time: 18 mins
 
-YAML                       12 mins         ███████████████████████▓░   95.24 %
-Other                      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-Nginx configuration file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Bash                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Python                     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+YAML                       12 mins         ████████████████▓░░░░░░░░   66.30 %
+JavaScript                 3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.79 %
+HTML                       2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
+Other                      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Nginx configuration file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
