@@ -12,14 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 February 2024 - To: 22 February 2024
+From: 16 February 2024 - To: 23 February 2024
 
 Total Time: 5 mins
 
-JavaScript   3 mins          █████████████▓░░░░░░░░░░░   55.32 %
-HTML         2 mins          █████████▓░░░░░░░░░░░░░░░   39.18 %
-Other        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-YAML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+JavaScript   3 mins          ██████████████░░░░░░░░░░░   56.15 %
+HTML         2 mins          ██████████░░░░░░░░░░░░░░░   39.77 %
+Other        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
 ```
 
 <!--END_SECTION:waka-->
