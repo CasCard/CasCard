@@ -12,14 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2024 - To: 09 May 2024
+From: 03 May 2024 - To: 10 May 2024
 
 Total Time: 22 mins
 
-Text     13 mins         ███████████████░░░░░░░░░░   59.34 %
-Python   9 mins          ██████████░░░░░░░░░░░░░░░   40.59 %
-C++      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-CMake    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Text     13 mins         ███████████████░░░░░░░░░░   59.39 %
+Python   9 mins          ██████████░░░░░░░░░░░░░░░   40.61 %
 ```
 
 <!--END_SECTION:waka-->
