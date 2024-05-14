@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 12 May 2024
+From: 06 May 2024 - To: 13 May 2024
 
-Total Time: 3 hrs 18 mins
+Total Time: 3 hrs 5 mins
 
-Python       2 hrs 6 mins    ████████████████░░░░░░░░░   63.63 %
-TypeScript   32 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.29 %
-Docker       22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
-Text         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Python       1 hr 56 mins    ███████████████▓░░░░░░░░░   63.02 %
+TypeScript   42 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.80 %
+Docker       22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
