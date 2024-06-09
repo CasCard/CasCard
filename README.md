@@ -12,11 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2024 - To: 07 June 2024
+From: 01 June 2024 - To: 08 June 2024
 
-Total Time: 0 secs
+Total Time: 1 hr 31 mins
 
-No activity tracked
+Python   58 mins         ████████████████░░░░░░░░░   64.23 %
+CSV      32 mins         █████████░░░░░░░░░░░░░░░░   35.77 %
 ```
 
 <!--END_SECTION:waka-->
