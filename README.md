@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2024 - To: 30 November 2024
+From: 24 November 2024 - To: 01 December 2024
 
-Total Time: 10 hrs 29 mins
+Total Time: 10 hrs 53 mins
 
-Python   10 hrs 23 mins  ████████████████████████▓   99.04 %
-CSV      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Text     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Python   10 hrs 37 mins  ████████████████████████▒   97.65 %
+CSV      12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Text     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 JSON     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
