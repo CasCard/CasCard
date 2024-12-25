@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2024 - To: 23 December 2024
+From: 17 December 2024 - To: 24 December 2024
 
-Total Time: 20 hrs
+Total Time: 15 hrs 45 mins
 
-Python     19 hrs 31 mins  ████████████████████████▒   97.64 %
-CSV        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Text       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-JSON       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python     15 hrs 19 mins  ████████████████████████▒   97.28 %
+Text       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+CSV        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+JSON       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
