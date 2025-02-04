@@ -12,15 +12,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2025 - To: 02 February 2025
+From: 27 January 2025 - To: 03 February 2025
 
-Total Time: 22 hrs 55 mins
+Total Time: 20 hrs 33 mins
 
-Python   13 hrs 58 mins  ███████████████▒░░░░░░░░░   60.94 %
-CSV      7 hrs 55 mins   ████████▓░░░░░░░░░░░░░░░░   34.59 %
-JSON     51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Bash     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Other    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Python   11 hrs 30 mins  ██████████████░░░░░░░░░░░   56.00 %
+CSV      6 hrs 51 mins   ████████▒░░░░░░░░░░░░░░░░   33.34 %
+JSON     52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+Other    40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Bash     36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 ```
 
 <!--END_SECTION:waka-->
