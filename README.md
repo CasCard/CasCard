@@ -12,14 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 March 2025 - To: 13 March 2025
+From: 07 March 2025 - To: 14 March 2025
 
-Total Time: 2 hrs 13 mins
+Total Time: 1 hr 56 mins
 
-Python     1 hr 45 mins    ███████████████████▓░░░░░   78.88 %
-Other      10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-OpenSCAD   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
-Bash       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Python     1 hr 28 mins    ███████████████████░░░░░░   76.31 %
+Other      10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+OpenSCAD   7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+Bash       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 CSV        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
 
