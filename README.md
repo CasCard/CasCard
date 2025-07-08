@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 June 2025 - To: 06 July 2025
+From: 30 June 2025 - To: 07 July 2025
 
-Total Time: 12 mins
+Total Time: 0 secs
 
-CSV    12 mins         █████████████████████████   99.55 %
-Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+C++     0 secs          ██████████████▓░░░░░░░░░░   58.72 %
+CMake   0 secs          ██████████▒░░░░░░░░░░░░░░   41.28 %
 ```
 
 <!--END_SECTION:waka-->
