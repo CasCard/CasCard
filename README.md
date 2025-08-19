@@ -12,14 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2025 - To: 17 August 2025
+From: 11 August 2025 - To: 18 August 2025
 
-Total Time: 55 mins
+Total Time: 0 secs
 
-Python     47 mins         █████████████████████▒░░░   85.80 %
-Markdown   7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
-CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-C++        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+CMake   0 secs          ████████████████████▒░░░░   81.94 %
+C++     0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
 ```
 
 <!--END_SECTION:waka-->
